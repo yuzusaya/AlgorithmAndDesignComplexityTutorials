@@ -1,0 +1,17 @@
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/bin/Debug/net7.0/ChapterOne
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/bin/Debug/net7.0/number.txt
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/bin/Debug/net7.0/string.txt
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/bin/Debug/net7.0/ChapterOne.deps.json
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/bin/Debug/net7.0/ChapterOne.runtimeconfig.json
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/bin/Debug/net7.0/ChapterOne.dll
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/bin/Debug/net7.0/ChapterOne.pdb
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.csproj.AssemblyReference.cache
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.AssemblyInfoInputs.cache
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.AssemblyInfo.cs
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.csproj.CoreCompileInputs.cache
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.dll
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/refint/ChapterOne.dll
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.pdb
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ChapterOne.genruntimeconfig.cache
+/Users/saya/Projects/AlgorithmComplexity/AlgorithmComplexity/obj/Debug/net7.0/ref/ChapterOne.dll
